@@ -20,7 +20,7 @@ mainClassName = 'App'
 jar{
 baseName = 'prime'
 version = '0.1.0'
-mainfest{
+manifest{
 attributes 'Main-Class' : 'App'
 }
 
